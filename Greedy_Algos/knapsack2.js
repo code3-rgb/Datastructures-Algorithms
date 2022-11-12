@@ -1,0 +1,5 @@
+const fractionalKnapsack = (w,array)=>{
+
+    
+
+}
